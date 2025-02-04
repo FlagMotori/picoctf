@@ -155,6 +155,8 @@ nav:
     - وب:
       - 'وب/Search_Source.md'
       - 'وب/No_Sql_Injection.md'
+      - 'وب/Web_Gauntlet.md'
+      - 'وب/Web_Gauntlet2.md'
         
 
     # - مهندسی معکوس:
@@ -165,6 +167,7 @@ nav:
         
     - PWN:
       - pwn/VNE.md
+      - pwn/format_string_2.md
 
     - وبلاگ:
         - blog/index.md
