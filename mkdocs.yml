@@ -165,6 +165,7 @@ nav:
         
     - PWN:
       - pwn/VNE.md
+      - pwn/format_string_2.md
 
     - وبلاگ:
         - blog/index.md
