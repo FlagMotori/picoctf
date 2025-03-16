@@ -2,38 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://FlagMotori.github.io/picoctf/</loc>
-         <lastmod>2025-02-04</lastmod>
+         <lastmod>2025-03-16</lastmod>
     </url>
     <url>
          <loc>https://FlagMotori.github.io/picoctf/tags/</loc>
-         <lastmod>2025-02-04</lastmod>
+         <lastmod>2025-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/picoctf/Cryptography/C3/</loc>
+         <lastmod>2025-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/picoctf/Cryptography/Custom_encryption/</loc>
+         <lastmod>2025-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/picoctf/ReverseEngineering/FastCheck/</loc>
+         <lastmod>2025-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/picoctf/ReverseEngineering/Packer/</loc>
+         <lastmod>2025-03-16</lastmod>
     </url>
     <url>
          <loc>https://FlagMotori.github.io/picoctf/blog/</loc>
-         <lastmod>2025-02-04</lastmod>
+         <lastmod>2025-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/picoctf/forensics/CanYouSee/</loc>
+         <lastmod>2025-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/picoctf/forensics/Verify/</loc>
+         <lastmod>2025-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/picoctf/getStarted/about-picoctf/</loc>
+         <lastmod>2025-03-16</lastmod>
     </url>
     <url>
          <loc>https://FlagMotori.github.io/picoctf/pwn/VNE/</loc>
-         <lastmod>2025-02-04</lastmod>
+         <lastmod>2025-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/picoctf/pwn/format_string_1/</loc>
+         <lastmod>2025-03-16</lastmod>
     </url>
     <url>
          <loc>https://FlagMotori.github.io/picoctf/pwn/format_string_2/</loc>
-         <lastmod>2025-02-04</lastmod>
+         <lastmod>2025-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/picoctf/pwn/heap_0/</loc>
+         <lastmod>2025-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/picoctf/pwn/heap_1/</loc>
+         <lastmod>2025-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/picoctf/web/No_Sql_Injection/</loc>
+         <lastmod>2025-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/picoctf/web/Search_Source/</loc>
+         <lastmod>2025-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/picoctf/web/Trickster/</loc>
+         <lastmod>2025-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/picoctf/web/Web_Gauntlet/</loc>
+         <lastmod>2025-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/picoctf/web/Web_Gauntlet2/</loc>
+         <lastmod>2025-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/picoctf/web/weirdSnake/</loc>
+         <lastmod>2025-03-16</lastmod>
     </url>
     <url>
          <loc>https://FlagMotori.github.io/picoctf/%D9%88%D8%A8/No_Sql_Injection/</loc>
-         <lastmod>2025-02-04</lastmod>
+         <lastmod>2025-03-16</lastmod>
     </url>
     <url>
          <loc>https://FlagMotori.github.io/picoctf/%D9%88%D8%A8/Search_Source/</loc>
-         <lastmod>2025-02-04</lastmod>
+         <lastmod>2025-03-16</lastmod>
     </url>
     <url>
          <loc>https://FlagMotori.github.io/picoctf/%D9%88%D8%A8/Web_Gauntlet/</loc>
-         <lastmod>2025-02-04</lastmod>
+         <lastmod>2025-03-16</lastmod>
     </url>
     <url>
          <loc>https://FlagMotori.github.io/picoctf/%D9%88%D8%A8/Web_Gauntlet2/</loc>
-         <lastmod>2025-02-04</lastmod>
+         <lastmod>2025-03-16</lastmod>
     </url>
 </urlset>
