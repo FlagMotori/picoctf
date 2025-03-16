@@ -138,10 +138,9 @@ markdown_extensions:
 
 # Contents
 nav:
-    # - نقطه شروع:
-    #     - index.md
-    #     - "آشنایی با مسابقات CTF": getStarted/CTF-introduction/index.md
-    #     - "راهنمای شروع CTF": getStarted/beginners-guide/index.md
+    - نقطه شروع:
+        - index.md
+        - "در مورد picoctf": getStarted/about-picoctf.md
 
     #     #- introduction/تاریخچه در ایران.md
     #     - همکاری با ما:
@@ -149,25 +148,34 @@ nav:
     #         - "نگارش رایتاپ": getStarted/writing-method.md
     #         - "نوشتن با فرمت md": getStarted/template.md
 
-    #     - برچسب‌ها: tags.md
-    #     - getStarted/customization.md
+        - برچسب‌ها: tags.md
 
-    - وب:
-      - 'وب/Search_Source.md'
-      - 'وب/No_Sql_Injection.md'
-      - 'وب/Web_Gauntlet.md'
-      - 'وب/Web_Gauntlet2.md'
+    - WEB:
+      - 'web/Search_Source.md'
+      - 'web/weirdSnake.md'
+      - 'web/No_Sql_Injection.md'
+      - 'web/Web_Gauntlet.md'
+      - 'web/Web_Gauntlet2.md'
+      - 'web/Trickster.md'
         
 
-    # - مهندسی معکوس:
+    - ReverseEngineering:
+      - 'ReverseEngineering/Packer.md'
+      - 'ReverseEngineering/FastCheck.md'
         
-    # - رمزنگاری:        
+    - Cryptography:
+      - 'Cryptography/C3.md'
+      - 'Cryptography/Custom_encryption.md'
 
-    # - جرم‌شناسی:
-        
     - PWN:
-      - pwn/VNE.md
-      - pwn/format_string_2.md
+      - 'pwn/heap_0.md'
+      - 'pwn/heap_1.md'
+      - 'pwn/format_string_1.md'
+      - 'pwn/format_string_2.md'
+      - 'pwn/VNE.md'
+    - Forensics:
+      - 'forensics/CanYouSee.md'
+      - 'forensics/Verify.md'
 
-    - وبلاگ:
-        - blog/index.md
+    # - وبلاگ:
+    #     - blog/index.md

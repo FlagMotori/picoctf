@@ -9,7 +9,7 @@ tags:
  [picoCTF](https://play.picoctf.org/practice/challenge/448?category=6&difficulty=2&page=1) 
 
 
-این از سورس فایل.
+این از سورس.
 ``` cpp
 #include <stdio.h>
 
